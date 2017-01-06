@@ -1,3 +1,9 @@
 # conditionals
 
-Take notes on the booleans and if-else presentation and modify the files necessary as it asks.  The projects are netbeans projects so after pulling the repo you open netbeans and open the project from there.  Don't forget to push your finished repo.
+if-else statements are a function of programming where a decision is made from a conditional statement. In java, the following syntax used to produce one of these operators
+
+`if(conditional){
+
+}`
+
+The conditional show can be any logical statement that equates to a boolean value (TRUE or FALSE).
